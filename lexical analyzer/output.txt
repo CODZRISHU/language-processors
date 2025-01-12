@@ -1,0 +1,26 @@
+Line no. 	 Token no. 		 Token 						 Lexeme
+
+      1		       0		 Identifier					 include
+      1		       1		 Identifier					   stdio
+      1		       2		 Identifier					       h
+      2		       3		 Keyword					     int
+      2		       4		 Identifier					    main
+      2		       5		 Seperator 			       (
+      2		       6		 Seperator 			       )
+      3		       7		 Seperator 			       {
+      4		       8		 Identifier					  printf
+      4		       9		 Seperator 			       (
+      4		      10		 Argument				       "hello world!!"
+      4		      11		 Seperator 			       )
+      4		      12		 Seperator 			       ;
+      5		      13		 Identifier					  printf
+      5		      14		 Seperator 			       (
+      5		      15		 Digit		 				     23
+      5		      16		 Operator		       +
+      5		      17		 Digit		 				     66
+      5		      18		 Seperator 			       )
+      5		      19		 Seperator 			       ;
+      6		      20		 Keyword					  return
+      6		      21		 Digit		 				      0
+      6		      22		 Seperator 			       ;
+      7		      23		 Seperator 			       }
